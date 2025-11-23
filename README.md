@@ -8,16 +8,16 @@ im funicat, a silly goober who programs sum things as a hobby!<br>
 
 # my projects
 
-## [pastemrrp](pstmrp.dynv6.net)
+## [pastemrrp](https://pstmrp.dynv6.net)
 pastebin alternative.
 
-## [PurrGPT](purrgpt.xyz)
+## [PurrGPT](https://purrgpt.xyz)
 my look at ChatGPT!
 
-## [kitmrrp](kitmrrp.dynv6.net)
+## [kitmrrp](https://kitmrrp.dynv6.net)
 file mirror and stuff.
 
-## [meowchat](meowchat-opal.vercel.app)
+## [meowchat](https://meowchat-opal.vercel.app)
 little chatting app! (meet me here and ask questions!)
 
 ## [mrrowser](https://github.com/funicat1/mrrowser)
