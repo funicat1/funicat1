@@ -3,6 +3,8 @@
 im funicat, a silly goober who programs sum things as a hobby!<br>
 <sup>im TOO silly so be aware</sup>
 
+and someone made me mad today
+
 <sub>i heard this thing is pretty cool so im adding this</sub><br>
 ![mrewow](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funicat1&theme=2077)
 
