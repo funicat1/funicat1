@@ -10,16 +10,16 @@ and someone made me mad today
 
 # my projects
 
-## [pastemrrp](https://pstmrp.dynv6.net)
+## [pastemrrp](https://pstmrp.dynv6.net) (DOWN)
 pastebin alternative.
 
-## [PurrGPT](https://purrgpt.xyz)
+## [PurrGPT](https://purrgpt.xyz) (IMAGE UPLOADING DOWN)
 my look at ChatGPT!
 
-## [kitmrrp](https://kitmrrp.dynv6.net)
+## [kitmrrp](https://kitmrrp.dynv6.net) (DOWN)
 file mirror and stuff.
 
-## [meowchat](https://meowchat-opal.vercel.app)
+## [meowchat](https://meowchat-opal.vercel.app) (DOWN)
 little chatting app! (meet me here and ask questions!)
 
 ## [mrrowser](https://github.com/funicat1/mrrowser)
