@@ -10,14 +10,11 @@ and someone made me mad. that specific clown person is cloxyowo. send a rotten e
 
 # my projects
 
-## [pastemrrp](https://pstmrp.dynv6.net) (DOWN)
+## [pastemrrp](https://pstmrp.dynv6.net)
 pastebin alternative.
 
 ## [PurrGPT](https://purrgpt.xyz)
 my look at ChatGPT!
-
-## [kitmrrp](https://kitmrrp.dynv6.net)
-file mirror and stuff.
 
 ## [meowchat](https://meowchat-opal.vercel.app) (DOWN)
 little chatting app! (meet me here and ask questions!)
