@@ -17,7 +17,7 @@ pastebin alternative.
 my look at ChatGPT!
 
 ## [meowchat](https://meowchat-opal.vercel.app) (DOWN)
-little chatting app! (meet me here and ask questions!)
+down cuz of clown person.
 
 ## [mrrowser](https://github.com/funicat1/mrrowser)
 cool browser, based on electron.
