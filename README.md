@@ -13,7 +13,7 @@ and someone made me mad today
 ## [pastemrrp](https://pstmrp.dynv6.net) (DOWN)
 pastebin alternative.
 
-## [PurrGPT](https://purrgpt.xyz) (IMAGE UPLOADING DOWN)
+## [PurrGPT](https://purrgpt.xyz)
 my look at ChatGPT!
 
 ## [kitmrrp](https://kitmrrp.dynv6.net) (DOWN)
