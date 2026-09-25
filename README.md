@@ -13,8 +13,8 @@ and someone made me mad. that specific clown person is cloxyowo. send a rotten e
 ## [pastemrrp](https://pstmrp.dynv6.net)
 pastebin alternative.
 
-## [PurrGPT](https://purrgpt.xyz)
-my look at ChatGPT!
+## [Nixie Linux](https://github.com/funicat1/nixie-linux)
+stupid linux distro project that broke me
 
 ## [meowchat](https://meowchat-opal.vercel.app) (DOWN)
 down cuz of clown person.
