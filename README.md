@@ -3,21 +3,16 @@
 im funicat, a silly goober who programs sum things as a hobby!<br>
 <sup>im TOO silly so be aware</sup>
 
-and someone made me mad. that specific clown person is cloxyowo. send a rotten egg to him
-
 <sub>i heard this thing is pretty cool so im adding this</sub><br>
 ![mrewow](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funicat1&theme=2077)
 
 # my projects
 
-## [pastemrrp](https://pstmrp.dynv6.net)
-pastebin alternative.
+## [OpenGay](https://github.com/funicat1/OpenGary)
+remember gary the cat? this is an opensource project that recreates the original api
 
 ## [Nixie Linux](https://github.com/funicat1/nixie-linux)
 stupid linux distro project that broke me
-
-## [meowchat](https://meowchat-opal.vercel.app) (DOWN)
-down cuz of clown person.
 
 ## [mrrowser](https://github.com/funicat1/mrrowser)
 cool browser, based on electron.
