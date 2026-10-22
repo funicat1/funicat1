@@ -8,13 +8,10 @@ im funicat, a silly goober who programs sum things as a hobby!<br>
 
 # my projects
 
-## [OpenGay](https://github.com/funicat1/OpenGary)
-remember gary the cat? this is an opensource project that recreates the original api
-
 ## [Nixie Linux](https://github.com/funicat1/nixie-linux)
 stupid linux distro project that broke me
 
-## [mrrowser](https://github.com/funicat1/mrrowser)
+## [mrrowser](https://github.com/funicat1/mrrowser) (inactive)
 cool browser, based on electron.
 <hr>
 
